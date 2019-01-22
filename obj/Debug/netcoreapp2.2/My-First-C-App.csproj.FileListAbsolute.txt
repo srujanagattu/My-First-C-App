@@ -1,0 +1,11 @@
+C:\Users\S533622\Documents\44663\My-First-C-App\bin\Debug\netcoreapp2.2\My-First-C-App.deps.json
+C:\Users\S533622\Documents\44663\My-First-C-App\bin\Debug\netcoreapp2.2\My-First-C-App.runtimeconfig.json
+C:\Users\S533622\Documents\44663\My-First-C-App\bin\Debug\netcoreapp2.2\My-First-C-App.runtimeconfig.dev.json
+C:\Users\S533622\Documents\44663\My-First-C-App\bin\Debug\netcoreapp2.2\My-First-C-App.dll
+C:\Users\S533622\Documents\44663\My-First-C-App\bin\Debug\netcoreapp2.2\My-First-C-App.pdb
+C:\Users\S533622\Documents\44663\My-First-C-App\obj\Debug\netcoreapp2.2\My-First-C-App.csprojAssemblyReference.cache
+C:\Users\S533622\Documents\44663\My-First-C-App\obj\Debug\netcoreapp2.2\My-First-C-App.csproj.CoreCompileInputs.cache
+C:\Users\S533622\Documents\44663\My-First-C-App\obj\Debug\netcoreapp2.2\My-First-C-App.AssemblyInfoInputs.cache
+C:\Users\S533622\Documents\44663\My-First-C-App\obj\Debug\netcoreapp2.2\My-First-C-App.AssemblyInfo.cs
+C:\Users\S533622\Documents\44663\My-First-C-App\obj\Debug\netcoreapp2.2\My-First-C-App.dll
+C:\Users\S533622\Documents\44663\My-First-C-App\obj\Debug\netcoreapp2.2\My-First-C-App.pdb
