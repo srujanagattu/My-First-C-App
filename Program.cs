@@ -7,7 +7,7 @@ namespace w02
         static void Main(string[] args)
         {
        
-            Console.WriteLine("Welcome to Doctor's advice");
+            Console.WriteLine("Welcome to Doctor's advice!!!");
             var name = "";
             var age = 0;
             var issue = "";
