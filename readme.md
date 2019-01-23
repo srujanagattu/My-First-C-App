@@ -10,7 +10,7 @@ Make sure you check your own body temperature and respond to the doctor.
 
 Fee depends on the count of your visit.
 
-Try to give feesback after using the app.
+Give feedback after using the app.
 
 Thank you!!
 
