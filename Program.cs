@@ -50,7 +50,7 @@ namespace w02
                         Console.WriteLine("You need to take paracetomol tablets twice a day!");
                         break;
                     case "cough":
-                        Console.WriteLine("You need to take paracetomol tablets twice a day!");
+                        Console.WriteLine("You need to take KUF-Q tablets twice a day!");
                         break;
                     case "cold":
                         Console.WriteLine("You need to take crocin tablets twice a day!");
@@ -61,7 +61,7 @@ namespace w02
                 }
                 Console.WriteLine("What is your body present temperature?");
                 temp = Convert.ToDouble(Console.ReadLine());
-                Console.WriteLine("You need to take total of 6 tablets in  three days after your meal!");
+             Console.WriteLine("You need to take total of 8 tablets in  four days after your meal!");
             }
             Console.WriteLine("Was Doctor's Advice useful? y/n");
             feedback = Convert.ToChar(Console.ReadLine());
