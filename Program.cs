@@ -63,16 +63,16 @@ namespace w02
                 }
                 Console.WriteLine("What is your body present temperature?");
                 temp = Convert.ToDouble(Console.ReadLine());
-                if(temp > 96.0 ){
-             Console.WriteLine("You need to take total of 6 tablets in  three days after your meal!");
+                if(temp <= 99.0 ){
+                 Console.WriteLine("You need to take total of 4 tablets in  two days after your meal!");
                 }
-                if(temp <= 96.0){
+                if(temp > 99.0){
 
                     Console.WriteLine("You need to take total of 8 tablets in  four days after your meal!");
                 }
-            }
             
-            if(age>5){
+            
+            
             Console.WriteLine("Have you used this app before? yes/no");
             visit = Console.ReadLine();
             if(visit=="yes")
