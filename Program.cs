@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace w02
+namespace My-First-C-App
 {
     class Program
     {
