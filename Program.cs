@@ -72,7 +72,7 @@ namespace w02
                 }
             }
             
-           
+            if(age>5){
             Console.WriteLine("Have you used this app before? yes/no");
             visit = Console.ReadLine();
             if(visit=="yes")
@@ -87,8 +87,10 @@ namespace w02
                 fee=500;
             }
             Console.WriteLine($"Your fee is {fee}");
+           
             Console.WriteLine("Was Doctor's Advice useful? y/n");
             feedback = Convert.ToChar(Console.ReadLine());
+            }
             Console.WriteLine("How would you like to rate us?");
             rate = Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine("Thank you!");
